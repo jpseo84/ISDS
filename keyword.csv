@@ -1,0 +1,145 @@
+Keyword,Category,Tag
+# Keyword Dataset for Cybersecurity & ISDS Regulation
+# Licensed under Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
+# You are free to share and adapt this dataset, *but modifications must be shared publicly*.
+# See: https://creativecommons.org/licenses/by-sa/4.0/
+Access Control,IS,IAM
+Acronis,IS,Cybersecurity
+Active Directory,IS,IAM
+Ahnlab,IT,Software
+Akamai Kona,IS,Network
+AlienVault,IS,Cybersecurity
+Antivirus,IS,Endpoint
+AppScan,IS,Endpoint
+APT,IS,Cybersecurity
+ArcSight,IS,Cybersecurity
+Avast,IS,Endpoint
+AVG Antivirus,IS,Endpoint
+Backup,IS,DP
+Barracuda,IT,Software
+Beyondtrust,IS,Cybersecurity
+BitDefender,IS,Endpoint
+Bitglass,IS,Endpoint
+Carbon Black,IS,Cybersecurity
+CCTV,IT,Hardware
+ChakraMax,IS,DP
+Chakra,IS,DP
+Checkpoint,IS,Network
+CipherCloud,IS,Cybersecurity
+Cisco Adaptive,IS,Network
+Cisco Umbrella,IS,Network
+Citrix,IT,Software
+Cloudflare WAF,IS,Network
+Crowdstrike,IS,Cybersecurity
+Cyberark,IS,Cybersecurity
+DBSafer,IS,DP
+DB Safer,IS,DP
+Decryption,IS,DP
+DevSecOps,IS,Cybersecurity
+Digital Signature,IS,Privacy
+DKOS,IS,Monitoring
+DLP,IS,DP
+DRM,IS,DP
+Encryption,IS,DP
+Endpoint,IS,Endpoint
+Entrust,IS,IAM
+ESET,IS,Endpoint
+F5 BIG,IS,Network
+F5 DNS,IS,Network
+FIDO,IS,Privacy
+Fireeye,IS,Cybersecurity
+Firewall,IS,Cybersecurity
+Forgerock,IS,IAM
+Fortigate,IS,Cybersecurity
+Fortinet,IS,Cybersecurity
+Genian,IS,Network
+Guardium,IS,Cybersecurity
+IDS,IS,Network
+Imperva,IS,Cybersecurity
+IPSEC,IS,Network
+IXIA,IS,Network
+Juniper Networks Pulse,IS,Monitoring
+Kaspersky,IS,Endpoint
+Keeper Security,IS,Endpoint
+Kemp Loadmaster,IT,Hardware
+Kerberos,IS,IAM
+LastPass,IS,IAM
+LDAP,IS,IAM
+McAfee,IS,Endpoint
+Microsoft Defender,IS,Endpoint
+NAC,IS,Network
+Nessus,IS,Cybersecurity
+Netskope,IS,Cybersecurity
+Okta,IS,Cybersecurity
+Onelogin,IS,IAM
+OneSpan Authentication,IS,IAM
+OTP,IS,IAM
+Palo Alto,IS,Network
+PGP,IS,IAM
+Ping Identity,IS,Cybersecurity
+PKI,IS,IAM
+Prisma Access,IS,Network
+Privacy,IS,DP
+Pulse Secure,IS,Network
+Qradar,IS,Monitoring
+Qualys,IS,Cybersecurity
+Rapid7,IS,Cybersecurity
+RSA Netwitness,IS,Cybersecurity
+Sailpoint,IS,Cybersecurity
+SandBlast,IS,Cybersecurity
+SecureAuth,IS,IAM
+SecureLink,IS,IAM
+Security,IS,Cybersecurity
+SIEM,IS,Cybersecurity
+Sniffing,IS,Network
+Sonicwall,IS,Network
+Sophos,IS,Endpoint
+Spam,IS,Cybersecurity
+Splunk,IS,Cybersecurity
+Spoofing,IS,Cybersecurity
+SSH,IS,Network
+SSL,IS,Network
+Symantec,IS,Endpoint
+Tenable.io,IS,Cybersecurity
+Tenable.sc,IS,Cybersecurity
+Thycotic,IS,Cybersecurity
+TLS,IS,Network
+Trend Micro,IS,Endpoint
+Trustwave SpiderLabs,IS,Cybersecurity
+Varonis,IS,Cybersecurity
+Veracode,IS,Cybersecurity
+Verisign,IS,Cybersecurity
+VMWare,IT,Hardware
+Vulnerability,IS,DP
+Webroot,IS,Endpoint
+WIPS,IS,Network
+X-Force,IS,Cybersecurity
+Zero Trust,IS,Cybersecurity
+ZeroTrust,IS,Cybersecurity
+Zscaler,IS,Cybersecurity
+개인정보,IS,Privacy
+공인인증,IS,Cybersecurity
+권한관리,IS,IAM
+방문자등록,IS,IAM
+백신,IS,Endpoint
+백업,IS,DLP
+보안감사,IS,Monitoring
+보안진단,IS,Monitoring
+보안시스템,IS,Cybersecurity
+보안사고,IS,Cybersecurity
+복호화,IS,Cybersecurity
+불법소프트웨어,IS,Cybersecurity
+스팸,IS,Cybersecurity
+안랩,IS,Endpoint
+안티바이러스,IS,Endpoint
+암호화,IS,Cybersecurity
+인증서,IS,Cybersecurity
+재해복구,IS,Cybersecurity
+전자서명,IS,Cybersecurity
+접근제어,IS,IAM
+정보보안,IS,Cybersecurity
+정보보호,IS,Cybersecurity
+취약점,IS,Cybersecurity
+침입사고,IS,Cybersecurity
+침해사고,IS,Cybersecurity
+프라이버시,IS,Privacy
