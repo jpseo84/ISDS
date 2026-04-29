@@ -1,145 +1,332 @@
 Keyword,Category,Tag
-# Keyword Dataset for Cybersecurity & ISDS Regulation
-# Licensed under Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
-# You are free to share and adapt this dataset, *but modifications must be shared publicly*.
-# See: https://creativecommons.org/licenses/by-sa/4.0/
-Access Control,IS,IAM
-Acronis,IS,Cybersecurity
-Active Directory,IS,IAM
-Ahnlab,IT,Software
-Akamai Kona,IS,Network
-AlienVault,IS,Cybersecurity
-Antivirus,IS,Endpoint
-AppScan,IS,Endpoint
-APT,IS,Cybersecurity
-ArcSight,IS,Cybersecurity
-Avast,IS,Endpoint
-AVG Antivirus,IS,Endpoint
-Backup,IS,DP
-Barracuda,IT,Software
-Beyondtrust,IS,Cybersecurity
-BitDefender,IS,Endpoint
-Bitglass,IS,Endpoint
-Carbon Black,IS,Cybersecurity
-CCTV,IT,Hardware
-ChakraMax,IS,DP
-Chakra,IS,DP
-Checkpoint,IS,Network
-CipherCloud,IS,Cybersecurity
-Cisco Adaptive,IS,Network
-Cisco Umbrella,IS,Network
-Citrix,IT,Software
-Cloudflare WAF,IS,Network
-Crowdstrike,IS,Cybersecurity
-Cyberark,IS,Cybersecurity
-DBSafer,IS,DP
-DB Safer,IS,DP
-Decryption,IS,DP
-DevSecOps,IS,Cybersecurity
-Digital Signature,IS,Privacy
-DKOS,IS,Monitoring
-DLP,IS,DP
-DRM,IS,DP
-Encryption,IS,DP
-Endpoint,IS,Endpoint
-Entrust,IS,IAM
-ESET,IS,Endpoint
-F5 BIG,IS,Network
-F5 DNS,IS,Network
-FIDO,IS,Privacy
-Fireeye,IS,Cybersecurity
-Firewall,IS,Cybersecurity
-Forgerock,IS,IAM
-Fortigate,IS,Cybersecurity
-Fortinet,IS,Cybersecurity
-Genian,IS,Network
-Guardium,IS,Cybersecurity
-IDS,IS,Network
-Imperva,IS,Cybersecurity
-IPSEC,IS,Network
-IXIA,IS,Network
-Juniper Networks Pulse,IS,Monitoring
-Kaspersky,IS,Endpoint
-Keeper Security,IS,Endpoint
-Kemp Loadmaster,IT,Hardware
-Kerberos,IS,IAM
-LastPass,IS,IAM
-LDAP,IS,IAM
-McAfee,IS,Endpoint
-Microsoft Defender,IS,Endpoint
-NAC,IS,Network
-Nessus,IS,Cybersecurity
-Netskope,IS,Cybersecurity
-Okta,IS,Cybersecurity
-Onelogin,IS,IAM
-OneSpan Authentication,IS,IAM
-OTP,IS,IAM
-Palo Alto,IS,Network
-PGP,IS,IAM
-Ping Identity,IS,Cybersecurity
-PKI,IS,IAM
-Prisma Access,IS,Network
-Privacy,IS,DP
-Pulse Secure,IS,Network
-Qradar,IS,Monitoring
-Qualys,IS,Cybersecurity
-Rapid7,IS,Cybersecurity
-RSA Netwitness,IS,Cybersecurity
-Sailpoint,IS,Cybersecurity
-SandBlast,IS,Cybersecurity
-SecureAuth,IS,IAM
-SecureLink,IS,IAM
-Security,IS,Cybersecurity
-SIEM,IS,Cybersecurity
-Sniffing,IS,Network
-Sonicwall,IS,Network
-Sophos,IS,Endpoint
-Spam,IS,Cybersecurity
-Splunk,IS,Cybersecurity
-Spoofing,IS,Cybersecurity
-SSH,IS,Network
-SSL,IS,Network
-Symantec,IS,Endpoint
-Tenable.io,IS,Cybersecurity
-Tenable.sc,IS,Cybersecurity
-Thycotic,IS,Cybersecurity
-TLS,IS,Network
-Trend Micro,IS,Endpoint
-Trustwave SpiderLabs,IS,Cybersecurity
-Varonis,IS,Cybersecurity
-Veracode,IS,Cybersecurity
-Verisign,IS,Cybersecurity
-VMWare,IT,Hardware
-Vulnerability,IS,DP
-Webroot,IS,Endpoint
-WIPS,IS,Network
-X-Force,IS,Cybersecurity
-Zero Trust,IS,Cybersecurity
-ZeroTrust,IS,Cybersecurity
-Zscaler,IS,Cybersecurity
-개인정보,IS,Privacy
-공인인증,IS,Cybersecurity
-권한관리,IS,IAM
-방문자등록,IS,IAM
-백신,IS,Endpoint
-백업,IS,DLP
-보안감사,IS,Monitoring
-보안진단,IS,Monitoring
-보안시스템,IS,Cybersecurity
-보안사고,IS,Cybersecurity
-복호화,IS,Cybersecurity
-불법소프트웨어,IS,Cybersecurity
-스팸,IS,Cybersecurity
-안랩,IS,Endpoint
-안티바이러스,IS,Endpoint
-암호화,IS,Cybersecurity
-인증서,IS,Cybersecurity
-재해복구,IS,Cybersecurity
-전자서명,IS,Cybersecurity
-접근제어,IS,IAM
-정보보안,IS,Cybersecurity
-정보보호,IS,Cybersecurity
-취약점,IS,Cybersecurity
-침입사고,IS,Cybersecurity
-침해사고,IS,Cybersecurity
-프라이버시,IS,Privacy
+APT,IS,보안관리
+AVG Antivirus,IS,시스템단말보안
+AWS,IT,IT
+Access Control,IS,보안관리
+Acronis,IS,기타보안
+Active Directory,IS,암호및인증
+Ahnlab,IS,시스템단말보안
+Akamai Kona,IS,네트워크보안
+AlienVault,IS,보안관제
+Antivirus,IS,시스템단말보안
+AppScan,IS,보안컨설팅
+ArcSight,IS,보안관제
+Avast,IS,시스템단말보안
+Azure,IT,IT
+Backup,IS,기타보안
+Barracuda,IS,네트워크보안
+Beyondtrust,IS,보안관리
+BitDefender,IS,시스템단말보안
+Bitglass,IS,정보유출방지
+CCTV,IS,물리보안
+CCTV,IS,물리보안
+CRM,IT,IT
+Carbon Black,IS,시스템단말보안
+Chakra,IS,정보유출방지
+ChakraMax,IS,정보유출방지
+Checkpoint,IS,네트워크보안
+CipherCloud,IS,정보유출방지
+Cisco Adaptive,IS,네트워크보안
+Cisco Umbrella,IS,네트워크보안
+Citrix,IT,IT
+Cloudflare WAF,IS,네트워크보안
+Crowdstrike,IS,시스템단말보안
+Cyberark,IS,암호및인증
+DB Safer,IS,정보유출방지
+DBA,IT,IT
+DBMS,IT,IT
+DBSafer,IS,정보유출방지
+DDoS,IS,네트워크보안
+DKOS,IS,보안관제
+DLP,IS,정보유출방지
+DLP,IS,정보유출방지
+DRM,IS,정보유출방지
+DRM,IS,정보유출방지
+DR센터,IS,기타보안
+DW,IT,IT
+Decryption,IS,암호및인증
+DevSecOps,IS,보안관리
+Digital Signature,IS,암호및인증
+EDR,IS,시스템단말보안
+ERP,IT,IT
+ESET,IS,시스템단말보안
+ETL,IT,IT
+Encryption,IS,암호및인증
+Endpoint,IS,시스템단말보안
+Entrust,IS,암호및인증
+F5 BIG,IS,네트워크보안
+F5 DNS,IS,네트워크보안
+FIDO,IS,암호및인증
+Fireeye,IS,보안관제
+Firewall,IS,네트워크보안
+Forgerock,IS,암호및인증
+Fortigate,IS,네트워크보안
+Fortinet,IS,네트워크보안
+GCP,IT,IT
+Genian,IS,네트워크보안
+Guardium,IS,정보유출방지
+IDC,IT,IT
+IDC회선,IT,IT
+IDS,IS,네트워크보안
+IPS,IS,네트워크보안
+IPSEC,IS,네트워크보안
+ISMS,IS,보안컨설팅
+ISO27001,IS,보안컨설팅
+IT감리,IT,IT
+IT교육,IT,IT
+IT비용,IT,IT
+IT서비스,IT,IT
+IT용역,IT,IT
+IT인력,IT,IT
+IT장비,IT,IT
+IT컨설팅,IT,IT
+IXIA,IS,네트워크보안
+IaaS,IT,IT
+Imperva,IS,네트워크보안
+Juniper Networks Pulse,IS,네트워크보안
+Kaspersky,IS,시스템단말보안
+Keeper Security,IS,암호및인증
+Kemp Loadmaster,IT,IT
+Kerberos,IS,암호및인증
+LAN,IT,IT
+LDAP,IS,암호및인증
+LastPass,IS,암호및인증
+MFA,IS,암호및인증
+MPLS,IT,IT
+McAfee,IS,시스템단말보안
+Microsoft Defender,IS,시스템단말보안
+NAC,IS,네트워크보안
+NAS,IT,IT
+Nessus,IS,보안컨설팅
+Netskope,IS,정보유출방지
+OS,IT,IT
+OTP,IS,암호및인증
+Okta,IS,암호및인증
+OneSpan Authentication,IS,암호및인증
+Onelogin,IS,암호및인증
+PGP,IS,암호및인증
+PKI,IS,암호및인증
+PaaS,IT,IT
+Palo Alto,IS,네트워크보안
+Ping Identity,IS,암호및인증
+Prisma Access,IS,네트워크보안
+Privacy,IS,정보유출방지
+Pulse Secure,IS,네트워크보안
+Qradar,IS,보안관제
+Qualys,IS,보안컨설팅
+RSA Netwitness,IS,보안관제
+Rapid7,IS,보안컨설팅
+SAN,IT,IT
+SAP,IT,IT
+SI,IT,IT
+SIEM,IS,보안관제
+SM,IT,IT
+SSH,IS,암호및인증
+SSL,IS,암호및인증
+SSO,IS,암호및인증
+SaaS,IT,IT
+Sailpoint,IS,암호및인증
+SandBlast,IS,네트워크보안
+SecureAuth,IS,암호및인증
+SecureLink,IS,암호및인증
+Security,IS,보안관리
+Sniffing,IS,네트워크보안
+Sonicwall,IS,네트워크보안
+Sophos,IS,시스템단말보안
+Spam,IS,네트워크보안
+Splunk,IS,보안관제
+Spoofing,IS,네트워크보안
+Symantec,IS,시스템단말보안
+TLS,IS,암호및인증
+Tenable.io,IS,보안컨설팅
+Tenable.sc,IS,보안컨설팅
+Thycotic,IS,암호및인증
+Trend Micro,IS,시스템단말보안
+Trustwave SpiderLabs,IS,보안컨설팅
+UPS,IT,IT
+VMWare,IT,IT
+VPN,IS,네트워크보안
+Varonis,IS,정보유출방지
+Veracode,IS,보안컨설팅
+Verisign,IS,암호및인증
+Vulnerability,IS,보안관리
+WAF,IS,네트워크보안
+WAN,IT,IT
+WIPS,IS,네트워크보안
+Webroot,IS,시스템단말보안
+X-Force,IS,보안관제
+Zero Trust,IS,보안관리
+ZeroTrust,IS,보안관리
+Zscaler,IS,네트워크보안
+가상서버,IT,IT
+개발교육,IT,IT
+개발용역,IT,IT
+개발자,IT,IT
+개인정보,IS,정보유출방지
+개인정보보호,IS,정보유출방지
+게이트웨이,IT,IT
+계정관리,IS,보안관리
+공인인증,IS,암호및인증
+관제,IS,보안관제
+구독료,IT,IT
+권한관리,IS,보안관리
+그룹웨어,IT,IT
+기술교육,IT,IT
+기술사용료,IT,IT
+기술서비스,IT,IT
+기술자문,IT,IT
+기술지원,IT,IT
+네트워크,IT,IT
+네트워크관리자,IT,IT
+네트워크장비,IT,IT
+대역폭,IT,IT
+데이터,IT,IT
+데이터가공,IT,IT
+데이터베이스,IT,IT
+데이터분석,IT,IT
+데이터센터,IT,IT
+데이터센터장비,IT,IT
+데이터수집,IT,IT
+데이터웨어하우스,IT,IT
+데이터이관,IT,IT
+데이터저장,IT,IT
+데이터전송,IT,IT
+데이터처리,IT,IT
+라우터,IT,IT
+라이선스,IT,IT
+로그데이터,IT,IT
+로그분석,IS,보안관제
+로드밸런서,IT,IT
+리눅스,IT,IT
+메일서버,IT,IT
+모니터링장비,IT,IT
+모의해킹,IS,보안컨설팅
+물리서버,IT,IT
+방문자등록,IS,물리보안
+방화벽,IS,네트워크보안
+배포,IT,IT
+백신,IS,시스템단말보안
+백업,IS,기타보안
+백업관리,IS,기타보안
+백업장비,IT,IT
+보안감사,IS,보안관제
+보안게이트,IS,물리보안
+보안관리,IS,보안관리
+보안관제,IS,보안관제
+보안교육,IS,보안교육훈련
+보안사고,IS,보안관리
+보안시스템,IS,보안관리
+보안인식교육,IS,보안교육훈련
+보안정책,IS,보안관리
+보안진단,IS,보안컨설팅
+보안컨설팅,IS,보안컨설팅
+보안훈련,IS,보안교육훈련
+복호화,IS,암호및인증
+불법소프트웨어,IS,보안관리
+빅데이터,IT,IT
+사용권,IT,IT
+서버,IT,IT
+서버랙,IT,IT
+서버임대,IT,IT
+서비스사용료,IT,IT
+성능개선,IT,IT
+성능분석,IT,IT
+소프트웨어,IT,IT
+솔루션,IT,IT
+스위치,IT,IT
+스토리지,IT,IT
+스팸,IS,네트워크보안
+시스템,IT,IT
+시스템개발,IT,IT
+시스템관리자,IT,IT
+시스템교육,IT,IT
+시스템구축,IT,IT
+시스템비,IT,IT
+시스템용역,IT,IT
+시스템운영,IT,IT
+시스템유지보수,IT,IT
+시스템이관,IT,IT
+시스템임차료,IT,IT
+시스템점검,IT,IT
+시스템진단,IT,IT
+아웃소싱,IT,IT
+아키텍처설계,IT,IT
+안랩,IS,시스템단말보안
+안티바이러스,IS,시스템단말보안
+암호,IS,암호및인증
+암호화,IS,암호및인증
+애플리케이션,IT,IT
+업그레이드,IT,IT
+업데이트,IT,IT
+엔지니어,IT,IT
+외주,IT,IT
+용역,IT,IT
+운영비,IT,IT
+운영용역,IT,IT
+운영자,IT,IT
+운영지원,IT,IT
+운영체제,IT,IT
+위탁,IT,IT
+윈도우서버,IT,IT
+유닉스,IT,IT
+유지관리,IT,IT
+유지보수,IT,IT
+유지보수용역,IT,IT
+유지비,IT,IT
+이메일시스템,IT,IT
+이상탐지,IS,보안관제
+인증,IS,암호및인증
+인증서,IS,암호및인증
+인터넷사용료,IT,IT
+인터넷회선,IT,IT
+인프라담당,IT,IT
+인프라비,IT,IT
+인프라사용료,IT,IT
+인프라설계,IT,IT
+자료유출,IS,정보유출방지
+장비임차료,IT,IT
+장애처리,IT,IT
+재해복구,IS,기타보안
+전산교육,IT,IT
+전산기기,IT,IT
+전산비,IT,IT
+전산실설비,IT,IT
+전산인력,IT,IT
+전산장비,IT,IT
+전산팀,IT,IT
+전용회선,IT,IT
+전자서명,IS,암호및인증
+접근제어,IS,보안관리
+접근통제,IS,보안관리
+정보보안,IS,보안관리
+정보보호,IS,보안관리
+정보시스템감리,IT,IT
+정보시스템비,IT,IT
+정보유출,IS,정보유출방지
+직무교육,IT,IT
+출입관리,IS,물리보안
+출입통제,IS,물리보안
+취약점,IS,보안관리
+침입사고,IS,보안관리
+침입차단,IS,네트워크보안
+침해사고,IS,보안관리
+컨설팅,IT,IT
+코로케이션,IT,IT
+클라우드,IT,IT
+테스트,IT,IT
+통신,IT,IT
+통신요금,IT,IT
+통신장비,IT,IT
+튜닝,IT,IT
+트래픽,IT,IT
+트랜잭션,IT,IT
+패치,IT,IT
+패치관리,IS,시스템단말보안
+패키지,IT,IT
+품질관리,IT,IT
+품질진단,IT,IT
+프라이버시,IS,정보유출방지
+프로그램,IT,IT
+플랫폼비,IT,IT
+호스팅,IT,IT
+회선,IT,IT
