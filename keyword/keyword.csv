@@ -1,4 +1,5 @@
 Keyword,Category,Tag
+Apple,IT,IT
 APT,IS,보안관리
 AVG Antivirus,IS,시스템단말보안
 AWS,IT,IT
@@ -19,7 +20,6 @@ Beyondtrust,IS,보안관리
 BitDefender,IS,시스템단말보안
 Bitglass,IS,정보유출방지
 CCTV,IS,물리보안
-CCTV,IS,물리보안
 CRM,IT,IT
 Carbon Black,IS,시스템단말보안
 Chakra,IS,정보유출방지
@@ -37,10 +37,9 @@ DBA,IT,IT
 DBMS,IT,IT
 DBSafer,IS,정보유출방지
 DDoS,IS,네트워크보안
+Display,IT,IT
 DKOS,IS,보안관제
 DLP,IS,정보유출방지
-DLP,IS,정보유출방지
-DRM,IS,정보유출방지
 DRM,IS,정보유출방지
 DR센터,IS,기타보안
 DW,IT,IT
@@ -104,11 +103,13 @@ OTP,IS,암호및인증
 Okta,IS,암호및인증
 OneSpan Authentication,IS,암호및인증
 Onelogin,IS,암호및인증
+Patch,IT,IT
 PGP,IS,암호및인증
 PKI,IS,암호및인증
 PaaS,IT,IT
 Palo Alto,IS,네트워크보안
 Ping Identity,IS,암호및인증
+PMS,IT,IT
 Prisma Access,IS,네트워크보안
 Privacy,IS,정보유출방지
 Pulse Secure,IS,네트워크보안
@@ -116,8 +117,10 @@ Qradar,IS,보안관제
 Qualys,IS,보안컨설팅
 RSA Netwitness,IS,보안관제
 Rapid7,IS,보안컨설팅
+Router,IT,IT
 SAN,IT,IT
 SAP,IT,IT
+Server,IT,IT
 SI,IT,IT
 SIEM,IS,보안관제
 SM,IT,IT
@@ -176,6 +179,7 @@ Zscaler,IS,네트워크보안
 기술서비스,IT,IT
 기술자문,IT,IT
 기술지원,IT,IT
+노트북,IT,IT
 네트워크,IT,IT
 네트워크관리자,IT,IT
 네트워크장비,IT,IT
@@ -192,12 +196,14 @@ Zscaler,IS,네트워크보안
 데이터저장,IT,IT
 데이터전송,IT,IT
 데이터처리,IT,IT
+디스플레이,IT,IT
 라우터,IT,IT
 라이선스,IT,IT
 로그데이터,IT,IT
 로그분석,IS,보안관제
 로드밸런서,IT,IT
 리눅스,IT,IT
+맥북,IT,IT
 메일서버,IT,IT
 모니터링장비,IT,IT
 모의해킹,IS,보안컨설팅
